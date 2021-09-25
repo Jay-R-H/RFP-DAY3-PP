@@ -1,0 +1,11 @@
+
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(Éœúé8²””ÂÁ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÒ‘Àûÿÿÿÿ8²””ÂÁ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÒ‘Àûÿÿÿÿ8²””ÂÁ/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(àÒ‘Àûÿÿÿÿ8Á””ÂÁ/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¥æÕíûÿÿÿÿ8Á””ÂÁ/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(÷™”Äûÿÿÿÿ8Á””ÂÁ/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ˆ®¹8É†›ÂÁ/
+
+java:S1192"]Define a constant instead of duplicating this literal "The employee has worked for " 3 times.(àÒ‘Àûÿÿÿÿ8Á””ÂÁ/
